@@ -2,7 +2,6 @@
 
 - Currently studying "Indroduction to Programming" (Python) at Redi. Check: https://www.redi-school.org/
 - Learning Web Development 
-- Student chef in Copenhagen.
 - Background in client & project management (advertising).
 
   ## About me
