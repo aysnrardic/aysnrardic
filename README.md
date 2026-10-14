@@ -1,9 +1,13 @@
 ## Hi, I'm Aysenur. 
 
-- Currently studying "Indroduction to Programming" (Python) at Redi. Check: https://www.redi-school.org/
-- Learning Web Development 
-- Background in client & project management (advertising).
+I'm based in Copenhagen, with a background in client and project management in advertising. I also completed foundation training in gastronomy in Denmark.
 
-  ## About me
-  I'm currently learning programming step by step and building confidence.
-  I enjoy combining creativity and structure - from kitchens to code. 
+### What I'm learning
+- Web development with HackYourFuture.
+- Data analytics with ReDI School.
+- Elements of AI with HackYourFuture.
+
+I previously completed ReDI School's Introduction to Programming course, where I learned the basics of Python. 
+
+### About me
+I enjoy combining creativity and structure, from cooking to coding. Here, I share my course exercises and projects as I learn.
